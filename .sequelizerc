@@ -1,0 +1,19 @@
+// // .sequelizerc
+/** custom folder for install sequelize */
+const path= require('path');
+
+module.exports ={
+    'config': path.resolve('src/data-access/sequelize/config', 'config.js'),
+    'models-path': path.resolve('src/data-access/sequelize','models'),
+    'seeders-path':path.resolve('src/data-access/sequelize','seeders'),
+    'migrations-path':path.resolve('src/data-access/sequelize','migrations')
+};
+
+// const path = require('path');
+
+// module.exports = {
+//   'config': path.resolve('src/data_access/sequelize/config', 'config.js'),
+//   'models-path': path.resolve('src/data_access/sequelize', 'models'),
+//   'seeders-path': path.resolve('src/data_access/sequelize', 'seeders'),
+//   'migrations-path': path.resolve('src/data_access/sequelize/', 'migrations')
+// };

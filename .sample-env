@@ -1,0 +1,28 @@
+PORT=290
+
+# env which db connect
+NODE_ENV = development
+
+# pg connect
+
+PGHOST= localhost
+PGUSER= postgres
+PGPASSWORD= dicky
+PGPORT=5432
+PGHOST= localhost
+PGDATABASE = db_dot_dicky_darmawan
+PGDIALECT = postgres
+
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_PASSWORD=dicky
+
+BCRYPT_SALT_ROUND=10
+# # for encrypt
+# ALGORITHM = aes-256-gcm
+# ENCRYPTION_KEY = 3zTvzr3p67VC61jmV54rIYu1545x4TlY
+# IV = 60iP0h6vJoEa
+
+# # basic auth
+# name = rod
+# pasword = qwerty
