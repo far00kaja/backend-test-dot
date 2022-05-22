@@ -66,4 +66,9 @@ npm test
 
 ## Dokumentasi API
 Untuk api yang digunakan pada aplikasi ini terdapat pada file ``backend DOT.postman_collection.json`` dengan menggunakan aplikasi postman, kemudian import. Jika sudah selesai di import, lakukan klik kanan pada collection kemudian view documentation untuk melihat penggunaan APInya.
+Best Regard, berikut saya lampirkan github(public), hackerrank, dan juga video:
+1. github : 
+ https://www.hackerrank.com/test/33gp893pqhs/feedback
+2. link hackerrank  : gagal sehingga tidak dapat sertifikat
+3.  video demo : https://drive.google.com/drive/folders/1TDlxfPWybBi2_wAVj7KOm1Nk6uWwcplZ?usp=sharing
 
